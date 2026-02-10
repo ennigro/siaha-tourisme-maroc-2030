@@ -3,18 +3,9 @@
 # 🇲🇦 SIAHA
 ### Système Intelligent d'Analyse des Flux Touristiques au Maroc
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Cliquez%20ici-C4562A?style=for-the-badge&logo=streamlit&logoColor=white)](https://siaha-tourisme-maroc.streamlit.app)
+**Outil d'aide à la décision** basé sur la classification Bayésienne pour anticiper les pics de flux touristiques aux postes-frontières du Maroc — développé dans le cadre de la préparation stratégique au **au Coupe du Monde FIFA 2030** 
 
-![Maroc Tourisme](https://img.shields.io/badge/Maroc-Tourisme-C4562A?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.10+-2A5C8A?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Naive%20Bayes-D4A832?style=flat-square&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-5B9E6F?style=flat-square&logo=plotly&logoColor=white)
-![Status](https://img.shields.io/badge/Statut-Déployé%20✅-2A5C8A?style=flat-square)
-
-**Outil d'aide à la décision** basé sur la classification Bayésienne pour anticiper les pics de flux touristiques aux postes-frontières du Maroc — développé dans le cadre de la préparation stratégique au **Mondial 2030** 
-
-### 🔗 [https://siaha-tourisme-maroc.streamlit.app](https://siaha-tourisme-maroc.streamlit.app)
+**voir le site:** ### 🔗 [https://siaha-tourisme-maroc.streamlit.app](https://siaha-tourisme-maroc.streamlit.app)
 
 </div>
 
@@ -24,7 +15,7 @@
 
 ###  1. Tableau de bord — Vue d'ensemble
 
-![Tableau de bord](screenshot_dashboard.png)
+![Tableau de bord](screenshot_dashboard1.png)
 
 > Le tableau de bord affiche les **indicateurs clés** du tourisme marocain :
 > - **7.04M** touristes en 2019 (+41% vs 2012)
@@ -38,7 +29,7 @@
 
 ### 2. Analyse des nuitées par destination
 
-![Nuitées par destination](screenshot_nuitees.png)
+![Nuitées par destination](screenshot_nuitees1.png)
 
 > Visualisation des **nuitées réalisées** dans les établissements touristiques marocains par destination (2012–2020) :
 > - **Marrakech** et **Agadir-Taghazout** dominent le marché
@@ -49,7 +40,7 @@
 
 ###  3. Simulateur IA — Paramètres
 
-![Simulateur IA](screenshot_simulateur.png)
+![Simulateur IA](screenshot_simulateur1.png)
 
 > L'interface du simulateur permet de configurer **3 paramètres** :
 > -  **Nationalité** du touriste (13 nationalités disponibles)
@@ -62,7 +53,7 @@
 
 ###  4. Résultat de la prédiction
 
-![Résultat prédiction](screenshot_resultat.png)
+![Résultat prédiction](screenshot_resultat1.png)
 
 > Exemple de résultat : **Espagne → Tanger Ibn Battouta, T3** :
 > - **P(Flux Élevé) = 65.2%** → Badge "FLUX ÉLEVÉ"
@@ -74,7 +65,7 @@
 
 ###  5. Simulation multi-nationalités
 
-![Simulation multi-nationalités](screenshot_multinat.png)
+![Simulation multi-nationalités](screenshot_multinat1.png)
 
 > Vue comparative de **toutes les nationalités** pour un poste donné (Tanger Ibn Battouta, T3) :
 > - 🔴 **Rouge** : flux critique (> 70%) — Allemagne 98%, Royaume-Uni 96%
