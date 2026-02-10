@@ -5,7 +5,8 @@
 
 **Outil d'aide à la décision** basé sur la classification Bayésienne pour anticiper les pics de flux touristiques aux postes-frontières du Maroc — développé dans le cadre de la préparation stratégique au **au Coupe du Monde FIFA 2030** 
 
-**voir le site:** ### 🔗 [https://siaha-tourisme-maroc.streamlit.app](https://siaha-tourisme-maroc.streamlit.app)
+**voir le site:** 
+### 🔗 [https://siaha-tourisme-maroc.streamlit.app](https://siaha-tourisme-maroc.streamlit.app)
 
 </div>
 
@@ -29,7 +30,7 @@
 
 ### 2. Analyse des nuitées par destination
 
-![Nuitées par destination](screenshot_nuitees1.png)
+![Nuitées par destination](screenshoot_nuitees1.png)
 
 > Visualisation des **nuitées réalisées** dans les établissements touristiques marocains par destination (2012–2020) :
 > - **Marrakech** et **Agadir-Taghazout** dominent le marché
@@ -40,7 +41,7 @@
 
 ###  3. Simulateur IA — Paramètres
 
-![Simulateur IA](screenshot_simulateur1.png)
+![Simulateur IA](screenshoot_simulateur1.png)
 
 > L'interface du simulateur permet de configurer **3 paramètres** :
 > -  **Nationalité** du touriste (13 nationalités disponibles)
